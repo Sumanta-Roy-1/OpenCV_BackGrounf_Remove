@@ -17,4 +17,4 @@ output = remove(input)
 #Saving the image in the given path 
 output.save(output_path) 
 
-# testing change ...
+# none
